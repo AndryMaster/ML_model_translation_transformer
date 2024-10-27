@@ -1,0 +1,75 @@
+--------------------------------------------------0.3--------------------------------------------------
+Input:   [START] guests can relax by the real fire in [UNK] bar , which has a bar menu and serves delicious afternoon teas . [END]                                
+
+Predict: [START] гости [UNK] могут [UNK] [UNK] в в [UNK] [UNK] , , где которыи есть имеет меню меню и , предлагает [UNK] [UNK] [UNK] . . [END]
+
+Target:  [START] в баре [UNK] подают [UNK] [UNK] чаи . [END]                                               
+
+--------------------------------------------------0.3--------------------------------------------------
+Input:   [START] located in a historic building built in the s , [UNK] manor features a bar , a sunny terrace and bbq facilities . [END]                               
+
+Predict: [START] отель [UNK] [UNK] [UNK] [UNK] расположен расположен в в [UNK] [UNK] , , в в минутах [UNK] ходьбы , от а [UNK] до [UNK] [UNK] [UNK] . . [END]
+
+Target:  [START] в нем имеется зал для просмотра фильмов , которыи открыт [END]                                             
+
+--------------------------------------------------0.7--------------------------------------------------
+Input:   [START] in due time , [UNK] passing into the [UNK] hands caused disintegration within multinational afghanistan . [END]                                      
+
+Predict: [START] в [UNK] . [UNK] [UNK] [UNK] в в руки руки [UNK] [UNK] , в [UNK] [UNK] . . [END]
+
+Target:  [START] в свое время переход [UNK] в руки [UNK] [UNK] [UNK] процессы внутри [UNK] [UNK] . [END] 
+
+--------------------------------------------------0.7--------------------------------------------------
+Input:   [START] lake [UNK] is only one mile away . [END]                                              
+
+Predict: [START] [UNK] [UNK] находится находится всего в в минутах минутах ходьбы ходьбы . от [END]
+
+Target:  [START] этот семеиныи отель расположен в самом центре города [UNK] . [END]                                             
+
+--------------------------------------------------1.0--------------------------------------------------
+Input:   [START] in steppe communities average species richness is , sometimes as much as species per m . [END]                                      
+
+Predict: [START] в профилактике [UNK] [UNK] , финансовых иногда ресурсов некоторые в виды меньше на . правовои млн анализ . . [END]
+
+Target:  [START] средняя [UNK] [UNK] на м в [UNK] [UNK] , иногда до видов . [END]                                          
+
+--------------------------------------------------1.0--------------------------------------------------
+Input:   [START] the services which must be included in this new declaration are solely the services which will be taxed for vat purposes in the other ms . services which are supplied to persons established outside the eu must not be included . [END]             
+
+Predict: [START] услуги [UNK] , , которые которые должны должны быть быть игр природных только услуг по уровне отношению [UNK] к к [UNK] другим китаиского . мира службы . , [END]
+
+Target:  [START] услуги , которые должны быть включены в эту новую декларацию , являются исключительно услугами , которые будут [UNK] налогом для целеи [UNK] , в другои [UNK] . [END]
+
+--------------------------------------------------0.3--------------------------------------------------
+Input:   [START] output files from the [UNK] proxy application are also stored as a proprietary format , and can only be opened using [UNK] dynamics [UNK] toolkit . [END]                            
+
+Predict: [START] [UNK] [UNK] [UNK] [UNK] также также [UNK] [UNK] в формат формате [UNK] , и а могут также быть быть [UNK] [UNK] с [UNK] помощью [UNK] [UNK] [UNK] [UNK] . . [END]
+
+Target:  [START] выходные фаилы от [UNK] прокси приложение также хранятся в [UNK] формате и может быть открыт только с помощью [UNK] dynamics [UNK] [UNK] . [END]                                
+
+--------------------------------------------------0.7--------------------------------------------------
+Input:   [START] work fast because the cakes will keep on coming ! [END]                                            
+Predict: [START] [UNK] [UNK] , , потому [UNK] что , на [UNK] самом ! деле [END]
+
+Target:  [START] работать нужно быстро , потому что подходят все новые и новые [UNK] ! [END]                                          
+
+--------------------------------------------------1.0--------------------------------------------------
+Input:   [START] see , just as impossible for those to cross over in that promised land . [END]                                       
+
+Predict: [START] наити [UNK] мы , могли моему начала разработке быть шум , от не которого [UNK] создании еще земли по , качеству которое земли [UNK] . . [END]
+
+Target:  [START] видите , точно так же невозможно , как тем переити в [UNK] землю . [END]                                         
+
+--------------------------------------------------1.0--------------------------------------------------
+Input:   [START] power supply transformer when using a dc power supply , make sure that the dc power supply has an insulated transformer . [END]                                
+
+Predict: [START] средства [UNK] питания при при использовании помощи [UNK] мировои питания хранит облако [UNK] питания примеру , , с если целью давление него задании [UNK] поведения энергии , ынок [UNK] [UNK] , . [UNK] [END]
+
+Target:  [START] [UNK] источника питания если используется источник питания постоянного тока , следует убедиться в том , что он [UNK] [UNK] [UNK] . [END]
+
+--------------------------------------------------0.7--------------------------------------------------
+Input:   [START] in the [UNK] world of [UNK] , it is easier to take a leave of absence between projects than it would be in most other professions . [END]                           
+
+Predict: [START] в [UNK] [UNK] мире [UNK] , должен просто принять принять участие [UNK] в в [UNK] основном , , чем чем это в было большинстве бы других других вызовов накопления . . [END]
+
+Target:  [START] в [UNK] , где вся работа построена на реализации проектов , намного легче по сравнению со многими другими компаниями взять отпуск между проектами . [END]                                  

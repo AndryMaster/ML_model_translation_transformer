@@ -1,0 +1,33 @@
+--------------------------------------------------0.3--------------------------------------------------
+Input:   [START] the [UNK] framework defines the indigenous project affected people as all indigenous peoples of sakhalin . [END]         
+Predict: [START] [UNK] [UNK] [UNK] [UNK] [UNK] , [UNK] [UNK] [UNK] людеи . , [END]
+Target:  [START] согласно [UNK] под определение коренных жителеи , чьи интересы [UNK] проектом , попадают все коренные жителеи острова сахалин . [END]                        
+
+--------------------------------------------------0.3--------------------------------------------------
+Input:   [START] [UNK] [UNK] girls suits [UNK] pants outfit boys suits sets [UNK] shorts [UNK] garment [UNK] [END]                           
+Predict: [START] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [END]
+Target:  [START] [UNK] костюм для девочек [UNK] [UNK] [UNK] мальчиков [UNK] одежда [UNK] [UNK] [UNK] [UNK] c [END]                            
+
+--------------------------------------------------0.7--------------------------------------------------
+Input:   [START] at the stage of [UNK] examination , we develop economic justification of the project , estimate suitability and best ways of implementation , define the budget and terms of project [UNK] . [END]          
+Predict: [START] на [UNK] гг [UNK] . [UNK] мы , [UNK] [UNK] экономику проекты , , [UNK] [UNK] [UNK] определение и и язык оценки [UNK] в . [UNK] [END]
+
+Target:  [START] на этапе [UNK] обследования мы [UNK] для вас экономическое обоснование проекта , [UNK] оценку целесообразности и [UNK] путеи реализации , [UNK] бюджет и сроки проекта автоматизации . [END]                
+
+--------------------------------------------------0.7--------------------------------------------------
+Input:   [START] the agreement provides for exchange of information between the diocese and the directorate on social support activities , conducting such activities together and developing and implementing charity programs to support the elderly , disabled and people in need . [END]   
+Predict: [START] соглашение [UNK] может информации обеспечить между [UNK] [UNK] и и [UNK] [UNK] [UNK] по в [UNK] социальнои [UNK] деятельности осуществление , таких [UNK] как и исследования [UNK] , и [UNK] , программ [UNK] по [UNK] [UNK] и , [UNK] в в [UNK] [UNK] ,
+
+Target:  [START] соглашение предусматривает [UNK] [UNK] [UNK] и управлением друг друга о проводимых мероприятиях по социальнои поддержке [UNK] слоев населения , совместное проведение таких мероприятии , разработку и реализацию различных [UNK] программ , направленных на поддержку граждан [UNK] возраста , инвалидов и граждан , [UNK] в
+
+--------------------------------------------------1.0--------------------------------------------------
+Input:   [START] we show the trends and ways for development of economic mechanism of the proposed management structure operation with stepbystep transition to [UNK] . [END]                   
+Predict: [START] мы политические [UNK] условия разработки к в программе соответствии экологического с управления вам [UNK] и главного явлением развития . экономических [END]
+
+Target:  [START] в этои связи показаны направления совершенствования экономического механизма функционирования [UNK] структуры управления с [UNK] [UNK] на [UNK] . [END]                         
+
+--------------------------------------------------1.0--------------------------------------------------
+Input:   [START] warm and soft colours of walls and floors create a visual space of apartment and make it more comfortable resting place . [END]                    
+Predict: [START] [UNK] философии базовых и кредиты [UNK] [UNK] [UNK] с эти собственнои [UNK] и и нас определить получить [UNK] больше осуществления времени . . [END]
+
+Target:  [START] в квартире [UNK] в [UNK] комнатах установлена [UNK] [UNK] , есть [UNK] , [UNK] , [UNK] ванная , [UNK] [UNK] , а также [UNK] [UNK] . [END]
